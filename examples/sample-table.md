@@ -1,0 +1,4 @@
+| name | age | note |
+| :--- | ---: | :--- |
+| Ada | 36 | likes pipes \| and commas |
+| Grace | 40 | first programmer |
